@@ -2,6 +2,6 @@
 
 Upload content from JSON/Excel files
 
-###USAGE
+### USAGE
 - clone into plugins/file-import folder
 - be happy
